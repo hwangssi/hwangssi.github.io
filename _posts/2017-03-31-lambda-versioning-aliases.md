@@ -1,9 +1,8 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2017-10-20 08:26:28 -0400
-categories: jekyll update
+title: "AWS Lambda Versioning and Aliases"
+date: 2017-03-31 09:59:20 +0900
+categories: aws
 ---
-
 
 # AWS Lambda Versioning and Aliases
 
