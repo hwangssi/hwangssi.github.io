@@ -4,7 +4,6 @@ date: 2017-03-31 09:59:20 +0900
 categories: aws
 ---
 
-# AWS Lambda Versioning and Aliases
 
 ## Overview
 
